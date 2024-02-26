@@ -9,8 +9,6 @@ date: 2024-02-24 22:50:46
 The time for empty talk is over. Now arrives the hour of action.
 
 Profile:
-Emial: huoyan56789@sina.com
 GitHub: https://github.com/huoyan56789
 
-![](about/index/IMG_0134.JPG)
 <!-- <img style="transform: rotate(90deg);margin-top:20%" src="./index/IMG_0134.JPG" width = "3024" height = "4032" alt="图片名称" /> -->
