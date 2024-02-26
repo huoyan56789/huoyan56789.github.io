@@ -1,7 +1,5 @@
 # README
 
-![deploy workflow](https://github.com/huoyan56789/huoyan56789.github.io/actions/workflows/action.yml/badge.svg)
-
 ## 依赖更新
 
 ```bash
