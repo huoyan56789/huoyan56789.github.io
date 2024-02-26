@@ -1,6 +1,6 @@
 # README
 
-![deploy workflow](https://github.com/1156721874/1156721874.github.io/actions/workflows/action.yml/badge.svg)
+![deploy workflow](https://github.com/huoyan56789/huoyan56789.github.io/actions/workflows/action.yml/badge.svg)
 
 ## 依赖更新
 
